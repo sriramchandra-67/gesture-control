@@ -1,4 +1,4 @@
-# Gesture Control Project ( VERSTION - 0 )
+# Gesture Control Project ( VERSION - 0 )
 
 A simple Python-based project that allows you to control your computer using hand gestures captured through your webcam
 
