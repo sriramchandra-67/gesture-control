@@ -20,8 +20,8 @@ Make sure you have Python installed, then clone the repository and install the r
    pip install opencv-python mediapipe pyautogui
    
 3. **How It Works**
-   . OpenCV is used to access the webcam feed
-   . MediaPipe detects and tracks hand landmarks in real-time
-   . PyAutoGUI (or your chosen library) translates those hand movements into system actions
+   * OpenCV is used to access the webcam feed
+   * MediaPipe detects and tracks hand landmarks in real-time
+   * PyAutoGUI (or your chosen library) translates those hand movements into system actions
 
 **THIS PROJECT IS JUST A DEMO REPO JUST A RANDOM PROTOTYPE OF A FINAL IDEA.**
